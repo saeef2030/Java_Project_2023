@@ -1,0 +1,52 @@
+[
+  {
+    "Teacher": "Hoda Mohsen",
+    "lecs": [
+      {
+        "link": "https://drive.google.com/file/d/1qyfLqdGC_5r9eaM1P7r76gOq4IX7mx_K/view?usp=drive_link",
+        "Name": "lec1"
+      }
+    ],
+    "Name": "DSP"
+  },
+  {
+    "Teacher": "Hoda Mohsen",
+    "lecs": [
+      {
+        "link": "https://drive.google.com/file/d/1DD5RIFaQbEim4oEwmA0ukgel1lRM5m0m/view?usp=drive_link",
+        "Name": "lec1"
+      }
+    ],
+    "Name": "Java"
+  },
+  {
+    "Teacher": "Hoda Amir",
+    "lecs": [
+      {
+        "link": "https://drive.google.com/file/d/1z_FRSLfZy_UF6BGo2M9kQaXLDsqqrcQI/view?usp=drive_link",
+        "Name": "lec1"
+      }
+    ],
+    "Name": "DSA"
+  },
+  {
+    "Teacher": "Hoda Amir",
+    "lecs": [
+      {
+        "link": "https://drive.google.com/file/d/1z_FRSLfZy_UF6BGo2M9kQaXLDsqqrcQI/view?usp=drive_link",
+        "Name": "lec1"
+      }
+    ],
+    "Name": "Math"
+  },
+  {
+    "Teacher": "Dr Sara",
+    "lecs": [
+      {
+        "link": "https://drive.google.com/file/d/1z_FRSLfZy_UF6BGo2M9kQaXLDsqqrcQI/view?usp=drive_link",
+        "Name": "lec1"
+      }
+    ],
+    "Name": "Alog"
+  }
+]

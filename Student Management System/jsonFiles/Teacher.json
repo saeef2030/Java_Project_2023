@@ -1,0 +1,71 @@
+[
+  {
+    "password": "Pass59",
+    "Username": "Hoda Mohsen",
+    "Courses": [
+      {
+        "Students": [
+          {
+            "Attendebne_num": 1,
+            "Name": "Khaled Abdullah"
+          }
+        ],
+        "Name": "DSP"
+      },
+      {
+        "Students": [
+          {
+            "Attendebne_num": 1,
+            "Name": "Amera Zaid"
+          }
+        ],
+        "Name": "Java"
+      }
+    ],
+    "userType": "Teacher",
+    "ID": "20812020565140"
+  },
+  {
+    "password": "Pass22",
+    "Username": "Hoda Amir",
+    "Courses": [
+      {
+        "Students": [
+          {
+            "Attendebne_num": 10,
+            "Name": "Amera Zaid"
+          }
+        ],
+        "Name": "DSA"
+      },
+      {
+        "Students": [
+          {
+            "Attendebne_num": 1,
+            "Name": "Khaled Abdullah"
+          }
+        ],
+        "Name": "Math"
+      }
+    ],
+    "userType": "Teacher",
+    "ID": "208120205657"
+  },
+  {
+    "password": "Pass202",
+    "Username": "Dr Sara",
+    "Courses": [
+      {
+        "Students": [
+          {
+            "Attendebne_num": 0,
+            "Name": "Ahmed mohammed"
+          }
+        ],
+        "Name": "Alog"
+      }
+    ],
+    "userType": "Teacher",
+    "ID": "20812096205657"
+  }
+]

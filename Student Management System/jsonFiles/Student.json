@@ -1,0 +1,57 @@
+[
+  {
+    "password": "Pass96",
+    "Username": "Khaled Abdullah",
+    "level": "1st",
+    "Courses": [
+      {
+        "Teacher": "Hoda Amir",
+        "Name": "Math"
+      },
+      {
+        "Teacher": "Hoda Mohsen",
+        "Name": "DSP"
+      }
+    ],
+    "userType": "Student",
+    "ID": "2081202056532"
+  },
+  {
+    "password": "123456",
+    "Username": "Amera Zaid",
+    "level": "3rd",
+    "Courses": [
+      {
+        "Teacher": "Hoda Amir",
+        "Name": "DSA"
+      },
+      {
+        "Teacher": "Hoda Mohsen",
+        "Name": "Java"
+      }
+    ],
+    "userType": "Student",
+    "ID": "208120205651"
+  },
+  {
+    "password": "Pass906",
+    "Username": "Ahmed mohammed",
+    "level": "1st",
+    "Courses": [
+      {
+        "Teacher": "Hoda Amir",
+        "Name": "Math"
+      },
+      {
+        "Teacher": "Hoda Mohsen",
+        "Name": "DSP"
+      },
+      {
+        "Teacher": "Dr Sara",
+        "Name": "Alog"
+      }
+    ],
+    "userType": "Student",
+    "ID": "208178056532"
+  }
+]
